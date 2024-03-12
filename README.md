@@ -1,3 +1,3 @@
 # AI-Article-Summarizer
 
-[Ai article summarizer ]([URL](https://resonant-paletas-c16ead.netlify.app/)https://resonant-paletas-c16ead.netlify.app/)
+Welcome to my project! Check out our [website]((https://resonant-paletas-c16ead.netlify.app/)) for more information.
